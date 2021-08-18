@@ -1,0 +1,30 @@
+1. C (untuk price dikali 2 di method update price dan untuk new price diinisialisasikan 100)
+2. A ( Karena varible ditambah ++ artinya ditambah 1, jadi nilai variable menjadi 10)
+3. D
+4. C (nilai String tidak bisa dikali)
+5. A (sesuai dengan definisi encapsulation)
+6. D ( karena pada class planet method bersifat protected)
+7. E ( karena pada n1 tidak membutuhkan parameter/argument, dan n2 salah karena method super dan this)
+8. C/E
+9. B 
+10. C ( karena no match)
+11. 
+12. C ( vaeiable awal ta = Aa kemudian ditambah B, kemudian ditambah C, dan kemudian ditambah lagi C, hasil akhir ABCC)
+13. A ( karena untuk memanggi variable pada class utama digunakan sebuah method super, dan kemudian menggunkan this untuk mendeklasrasikan nilai c)
+14. B ( karena letak nilai 1,3,5 berada pada indeks ke 0,2,4. jadi menggunaakan selisih looping =2 dan awalan 0)
+15. A ( karena sesuai dengan definisi yang tepat)
+16. E ( karena harus mengimport masing - masing package)
+17. ACD ( karena harus mendeklarasikan nilai amount telebih dahulu, kemudia class acct memiliki parameter integer, dan object amount pada acct harus bernilai 0)
+18. B ( dimula dengan index 0 dan idx 0,1 dan dilanjutkan seterusnya)
+19. D ( karena ada Exception pada method tersebut)
+20. B ( harus menambah x-- agar nilai x berkurang tiap looping)
+21. D ( tidak perlu default section)
+22. D ( hanya menjalankan sekali, karena pada looping selnajutnya nilai num harus == 0)
+23. E ( karena varible salah)
+24.
+25. C dan A ( karena harus dideklarasikan terlebnih dahulu )
+26. A ( karena Bran sudah di remove pada percabangan)
+27. C ( karena class C diturunkan dari class B, dan Class B diturunkan dari class A)
+28. A ( karena setiap variable i dan j dari object masing - masing ditampilkan)
+29. C ( penedeklarasian array sudah benar)
+30. C ( karena ada break setelah perulangan)
